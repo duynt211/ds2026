@@ -1,0 +1,14 @@
+This is a test file for the TCP file transfer system.
+It contains some sample text to verify that the file transfer works correctly.
+
+Testing different content:
+- Line 1
+- Line 2  
+- Line 3
+
+Numbers: 1234567890
+Special characters: !@#$%^&*()_+-=[]{}|;':",./<>?
+
+End of test file.
+
+--C4n0c--
